@@ -10,7 +10,7 @@
  */
 
 function nestedAdd(array) {
-  // write code here
+  
 }
 
 test.skip("nested arrays addition", () => {
